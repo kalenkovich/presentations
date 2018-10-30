@@ -14,8 +14,7 @@
 ![Hickok - asymmetric](assets/img/hickok_symmetric.png)
 @snapend
 
-+++
-![Hickok - both](assets/img/hickok_both.jpg)
++++?image=assets/img/hickok_both.jpg$size=contain
 
 +++
 Хикок такой не один
