@@ -10,10 +10,12 @@
 ## Откуда возник вопрос?
 
 +++
-Картинка с абстрактной симметричной моделью (из Хикока)
+@snap[north]
+![Hickok - asymmetric](assets/img/hickok_symmetric.png)
+@snapend
 
 +++
-Картинка с несимметричной моделью (из Хикока)
+![Hickok - both](assets/img/hickok_both.jpg)
 
 +++
 Хикок такой не один
