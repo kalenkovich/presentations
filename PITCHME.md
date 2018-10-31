@@ -17,6 +17,7 @@
 +++?image=assets/img/hickok_both.jpg$size=contain
 
 +++
+@size[-2](
 Savin, H. B., & Bever, T. G. (1970). The nonperceptual reality of the phoneme. Journal of Verbal Learning and Verbal Behavior, 9(3), 295–302.
 
 Massaro, D. W. (1972). Preperceptual images, processing time, and perceptual units in auditory perception. Psychological Review, 79(2), 124–145.
@@ -28,7 +29,7 @@ Poeppel, D. (2003). The analysis of speech in different temporal integration win
 Greenberg, S., & Arai, T. (2004). What are the Essential Cues for Understanding Spoken Language? IEICE Transactions, 87-D, 1059-1070.
 
 Giraud, A.-L., & Poeppel, D. (2012). Cortical oscillations and speech processing: emerging computational principles and operations. Nature Neuroscience, 15(4), 511–517.
-
+)
 
 ---
 ## Фонемы при порождении
